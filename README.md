@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
->>心怀不惧，方能翱翔于天际！
+>>心怀不惧，方能翱翔于天
+* [GitHub页面](http://www.github.com/xhbjwy)
+
 
 ## 存储库
 
