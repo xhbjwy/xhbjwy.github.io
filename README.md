@@ -6,7 +6,7 @@
 
 ## 存储库
 
-* [暂无](http://xhbjwy.github.io) 
+* [JQuery练习](http://github.com/xhbjwy/JQuery) 
 * [暂无](http://xhbjwy.github.io)
 
 ***
